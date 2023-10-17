@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sylvia
 
-I'm a BI analyst & software engineer with a passion for open-source development. I'm dedicated to leveraging technology to make the world a better place and enjoy building solutions that solve real-world problems.<br><br>## 🔧 What I'm Up To<br><br>- 👨‍💻 Currently working on RouteRover – a route planning web application.<br>- 🌱 Learning and experimenting with machine learning to understand how it can improve user experiences and drive innovation in the tech industry.<br>- 👥 Open to collaborating on exciting open-source projects – let's build something amazing together!<br><br>
+I'm a BI analyst & software engineer with a passion for open-source development. I enjoy working at the intersection of data and technology, building solutions that solve everyday problems.<br><br>## 🔧 What I'm Up To<br><br>- 👨‍💻 Currently working on RouteRover – a route planning web application.<br>- 🌱 Learning and experimenting with machine learning to understand how it can improve user experiences and drive innovation in the tech industry.<br>- 👥 Open to collaborating on exciting open-source projects – let's build something amazing together!<br><br>
 
 
 ## 🌐 Socials:
