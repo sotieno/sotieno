@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sylvia
 
-I BI Analyst and Software Engineer deeply passionate about open-source development. My interests revolve around harnessing the power of data and technology to create practical and innovative solutions to challenges.<br>
+I am a BI Analyst and Software Engineer deeply passionate about open-source development. My interests revolve around harnessing the power of data and technology to create practical and innovative solutions to challenges.<br>
 
 ## 🔧 What I'm Up To
 
