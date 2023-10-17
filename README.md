@@ -2,7 +2,11 @@
 
 I am a Business Intelligence (BI) Analyst and Software Engineer with a strong dedication to open-source development. My professional interests revolve around the synergy of data and technology, where I take pleasure in crafting innovative solutions to address common challenges.<br><br>
 
-## 🔧 What I'm Up To<br><br>- 👨‍💻 Currently working on RouteRover – a route planning web application.<br>- 🌱 Learning and experimenting with machine learning to understand how it can improve user experiences and drive innovation in the tech industry.<br>- 👥 Open to collaborating on exciting open-source projects – let's build something amazing together!<br><br>
+## 🔧 What I'm Up To<br><br>
+
+- 👨‍💻 Currently working on RouteRover – a route planning web application.<br>
+- 🌱 Learning and experimenting with machine learning to understand how it can improve user experiences and drive innovation in the tech industry.<br>
+- 👥 Open to collaborating on exciting open-source projects – let's build something amazing together!<br><br>
 
 
 ## 🌐 Socials:
