@@ -5,7 +5,7 @@ I am a BI Analyst and Software Engineer deeply passionate about open-source deve
 ## 🔧 What I'm Up To
 
 - 👨‍💻 Currently working on RouteRover – a route planning web application.<br>
-- 🌱 Learning and experimenting with machine learning to understand how it can improve user experiences and drive innovation in the tech industry.<br>
+- 🌱 Learning and experimenting with machine learning to understand how it can improve user experiences and drive innovation in business operations.<br>
 - 👥 Open to collaborating on exciting open-source projects – let's build something amazing together!<br><br>
 
 
