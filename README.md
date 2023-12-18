@@ -5,8 +5,9 @@ I am a BI Analyst and Software Engineer deeply passionate about open-source deve
 ## 🔧 What I'm Up To
 
 - 👨‍💻 Currently working on RouteRover – a route planning web application.<br>
-- 🌱 Learning and experimenting with machine learning to understand how it can improve user experiences and drive innovation in business operations.<br>
-- 👥 Open to collaborating on exciting open-source projects – let's build something amazing together!<br><br>
+- 🚀 DevOps Explorer: Actively experimenting with DevOps methodologies to enhance collaboration between development and operations teams. Focusing on automation, continuous integration, and deployment to streamline workflows for efficient software delivery.
+- 💡 FastAPI Aficionado: Enthusiastic about crafting robust, high-performance APIs with FastAPI. Harnessing its modern, asynchronous capabilities to build scalable and efficient web applications.
+- 👥 Open to collaborating on exciting open-source projects and receiving feedback – let's build something amazing together!<br><br>
 
 
 ## 🌐 Socials:
