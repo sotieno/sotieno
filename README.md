@@ -6,8 +6,8 @@ I’m a BI Analyst and Software Engineer who loves turning messy data into clear
 
 ## 🔧 What I'm Working On
 
-📊 BI Projects: Exploring creative ways to turn raw data into actionable dashboards and reports using tools like Tableau, Power BI, and Python.
-⚡ FastAPI Experiments: Building efficient APIs for seamless data integration and automation.
+- 📊 BI Projects: Exploring creative ways to turn raw data into actionable dashboards and reports using tools like Tableau, Power BI, and Python.
+- ⚡ FastAPI Experiments: Building efficient APIs for seamless data integration and automation.
 
 ## 💡 Why I Do What I Do
 
