@@ -1,14 +1,20 @@
-# 👋 Hello, I'm Sylvia
+# 👋 Hi, I'm Sylvia
 
-I am a BI Analyst and Software Engineer deeply passionate about open-source development. My interests revolve around harnessing the power of data and technology to create practical and innovative solutions to business challenges.<br>
+I make sense of data and build tools that matter.
 
-## 🔧 What I'm Up To
+I’m a BI Analyst and Software Engineer who loves turning messy data into clear answers. Whether it’s designing dashboards, building APIs, or solving business puzzles, I’m all about practical solutions.
 
-- 👨‍💻 Currently working on RouteRover – a route planning web application.<br>
-- 🚀 DevOps Explorer: Actively experimenting with DevOps methodologies to enhance collaboration between development and operations teams. Focusing on automation, continuous integration, and deployment to streamline workflows for efficient software delivery.
-- 💡 FastAPI Aficionado: Enthusiastic about crafting robust, high-performance APIs with FastAPI. Harnessing its modern, asynchronous capabilities to build scalable and efficient web applications.
-- 👥 Open to collaborating on exciting open-source projects and receiving feedback – let's build something amazing together!<br><br>
+## 🔧 What I'm Working On
 
+📊 BI Projects: Exploring creative ways to turn raw data into actionable dashboards and reports using tools like Tableau, Power BI, and Python.
+⚡ FastAPI Experiments: Building efficient APIs for seamless data integration and automation.
+
+## 💡 Why I Do What I Do
+
+I believe in the power of data storytelling—not just presenting numbers but turning them into compelling narratives that drive better decisions. My passion lies in creating solutions that help businesses grow, improve efficiency, and uncover opportunities.
+
+## 🤝 Let’s Collaborate!
+I’m always up for collaboration—whether it’s open-source projects, BI experiments, or swapping ideas. Check out my projects, or shoot me a message. Let’s make data work harder (and smarter).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sotieno) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sotienos) 
